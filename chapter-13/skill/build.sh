@@ -1,0 +1,1 @@
+g++ ./animal.cpp -o animal && ./animal
