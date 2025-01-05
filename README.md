@@ -1,1 +1,1 @@
-Just some snippets I made from learncpp chapters.
+Just some snippets I made while reading [learncpp](https://www.learncpp.com/).
